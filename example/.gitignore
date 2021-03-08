@@ -1,0 +1,7 @@
+node_modules
+dist
+
+static/js/*
+!static/js/.gitkeep
+static/templates/*
+!static/templates/.gitkeep
